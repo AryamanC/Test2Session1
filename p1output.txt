@@ -1,1 +1,5 @@
-
+enter values1
+1
+2
+2
+distance between the points are 0.000000
